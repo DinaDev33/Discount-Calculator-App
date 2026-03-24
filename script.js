@@ -28,11 +28,7 @@ function calculateSale(e) {
   
         Swal.fire({
             
-            text: 'Please enter a valid original price!',
-            imageUrl: 'https://cdn.glitch.global/f9fd8832-a5a5-472e-b9e2-8dd3bf8a3cb4/smiley1.png?v=1690383742556 ',
-            imageWidth: 80,
-            imageHeight: 80,
-            imageAlt: 'Custom image',
+            text: 'Please enter a valid original price!'
           })
         return;
     }
