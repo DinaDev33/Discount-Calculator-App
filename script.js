@@ -28,7 +28,7 @@ function calculateSale(e) {
   
         Swal.fire({
             
-            text: 'Merci de renseigner un prix non soldé valide!',
+            text: 'Please enter a valid original price!',
             imageUrl: 'https://cdn.glitch.global/f9fd8832-a5a5-472e-b9e2-8dd3bf8a3cb4/smiley1.png?v=1690383742556 ',
             imageWidth: 80,
             imageHeight: 80,
