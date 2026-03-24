@@ -1,4 +1,4 @@
-let text = "Discount Calculator"
+let text = "DISCOUNT CALCULATOR"
 let i = 0;
 let speed = 150;
 
